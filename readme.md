@@ -2,15 +2,19 @@
 
 A full-stack, dockerized document Question-Answering solution using **FastAPI** (backend, `api.py`) and **Streamlit** (frontend, `app.py`) powered by LangChain and the latest LLMs. This tool enables users to upload PDF documents and interact conversationally to query over their contents, with support for multiple vectorstores and LLM providers.
 
-Uploading video model streamlit.mp4…
 
 
 
-Uploading Untitled video - Made with Clipchamp (1).mp4…
+
+https://github.com/user-attachments/assets/8e8d2a6a-ec3a-440a-aa4c-d0cc7522be10
 
 
 
-Uploading 20250729-0715-01.4091036.mp4…
+https://github.com/user-attachments/assets/dc6d1685-1afe-48dd-be74-681e28f844b0
+
+
+
+https://github.com/user-attachments/assets/efd511ac-3b63-4c60-b92d-35ed56370627
 
 
 
