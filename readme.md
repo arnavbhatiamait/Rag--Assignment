@@ -189,9 +189,5 @@ Depending on which LLM or vectorstore you select, you may need to provide approp
 - [Groq](https://groq.com/)
 - [Google Gemini](https://ai.google.dev/)
 
-## License
 
-MIT (or specify as appropriate)
-
-**Enjoy querying your PDFs with the power of modern LLMs – all from your browser!**
 
