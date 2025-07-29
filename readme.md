@@ -25,6 +25,8 @@ A full-stack, dockerized document Question-Answering solution using **FastAPI** 
 ├── app.py                # Streamlit frontend (UI)
 ├── requirements.txt      # Python dependencies for both
 ├── docker-compose.yml    # Orchestrates backend & frontend
+├── Dockerfile.api
+├── Dockerfile.app
 ```
 
 ## Features
@@ -174,7 +176,3 @@ MIT (or specify as appropriate)
 
 **Enjoy querying your PDFs with the power of modern LLMs – all from your browser!**
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/64880571/0c71d05b-e269-4740-9eda-35cd69b849f3/api.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/64880571/d27f72e0-e372-4382-889a-f2340cf05fbf/app.py
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/64880571/5bf69be5-3a0a-4e6e-8899-ead24e161f9e/docker-compose.yml
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/64880571/8ff3cbd0-de36-4074-a943-98df5ebe1072/requirements.txt
