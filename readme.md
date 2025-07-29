@@ -1,6 +1,18 @@
 # LLM Document QA WebApp
 
-A full-stack, dockerized document Question-Answering solution using **FastAPI** (backend, `api.py`) and **Streamlit** (frontend, `app.py`) powered by LangChain and the latest LLMs. This tool enables users to upload PDF documents and interact conversationally to query over their contents, with support for multiple vectorstores and LLM providers.
+A full-stack, dockerized document Question-Answering solution using **FastAPI** (backend, `api.py`) and **Streamlit** (frontend, `app.py`) powered by LangChain and the latest LLMs. This tool enables users to upload PDF documents and interact conversationally to query over their contents, with support for mul
+
+Uploading video model streamlit.mp4…
+
+
+
+Uploading Untitled video - Made with Clipchamp (1).mp4…
+
+
+
+Uploading 20250729-0715-01.4091036.mp4…
+
+tiple vectorstores and LLM providers.
 
 ## Table of Contents
 
